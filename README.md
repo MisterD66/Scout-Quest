@@ -13,7 +13,7 @@ Setup:
 8. Assign your Users to active Quests using assignQuest.php
 9. Close quests and distribute points using closeQuest.php
 10. View all active quests on a public screen with openQuests.php - use your browsers zoom settings to adjust the layout for your screen resolution - sorry for that
-11. view the points of all groups using showPointa.php
+11. view the points of all groups using showPoints.php
 
 This system will be tested at the Upperaustrian "LAK 2016 - Challange accepted!" 
 
