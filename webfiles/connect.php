@@ -1,0 +1,1 @@
+<?php    $db_link = mysqli_connect("yourServer", "yourUser","yourPw","yourDB");?>
